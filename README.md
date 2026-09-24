@@ -36,12 +36,12 @@ The dashboard includes:
 
 ##  Dashboard Preview
 
-![Sales & Profit Dashboard](Screenshot 2026-09-24 131328.png)
+![Sales & Profit Dashboard](Dashboard.png)
 
 ## Project Files
 
 - `Sales $ profit.pbix` — Power BI project file
-- `Screenshot 2026-09-24 131328.png` — Dashboard preview
+- `Dashboard.png` — Dashboard preview
 
 ## Objective
 
